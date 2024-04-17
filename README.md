@@ -19,10 +19,13 @@ Calculate The Amount Of Pollutant Of Nitrogen Oxide Across A Specified List Of M
 OBSERVATIONS
 Reads A Directory Of Files And Reports The Number The Complete Observation Of Cases In Each Data File. The Function Returns A Data Frame Of Where The File Is Displaying A Picture Of What Is Going On In That Particular Year. 
 
- 
+![Screenshot 2024-04-16 150051](https://github.com/kgregart/air_pollution/assets/153306749/542330f7-0bf7-4b8c-956a-61d4b4a98b60)
+
+
 ETHICAL CONSIDERATIONS
 The Data Files Explain The Ethical Standards Of The Cases And Its Calculations And Correlation Between The Health Of Crops And Nitrogen Oxide For The Monitor Of Locations/States. 
  
+![Screenshot 2024-04-16 150321](https://github.com/kgregart/air_pollution/assets/153306749/ecf63d30-5020-4444-aca1-341efdb5c165)
 
 
  Air Pollution To The Public Is Essential To Reducing The Exposure  But Overall, May Lead To Unethical Behavior. According To The Findings Within The Data frame  The Experimental Studies Indicate That Exposure Physically And Mentally Are Linked To Partial Finding Ethical Versus Unethical Behavior. Nitrogen Oxides Are Widely Used Pollutant That Can Affect Crops Positively And Negatively That Placed Drastic Measurements On Agriculture Productively. The Admittance Of This Pollutant Can Lead A Production Level For Any Individual To An Increase Leading Level Economically. Increasing Yields From 15% In Harsh Weather Conditions And As Well 25% In Mass Production Weather Conditions. 

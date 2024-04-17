@@ -31,8 +31,13 @@ The Data Files Explain The Ethical Standards Of The Cases And Its Calculations A
  Air Pollution To The Public Is Essential To Reducing The Exposure  But Overall, May Lead To Unethical Behavior. According To The Findings Within The Data frame  The Experimental Studies Indicate That Exposure Physically And Mentally Are Linked To Partial Finding Ethical Versus Unethical Behavior. Nitrogen Oxides Are Widely Used Pollutant That Can Affect Crops Positively And Negatively That Placed Drastic Measurements On Agriculture Productively. The Admittance Of This Pollutant Can Lead A Production Level For Any Individual To An Increase Leading Level Economically. Increasing Yields From 15% In Harsh Weather Conditions And As Well 25% In Mass Production Weather Conditions. 
 
 REFERENCES
-Jordan. R. June 2022.  Less air pollution leads to higher crops yields, Stanford- led study shows. Standford Woods Institute for the Environment. 
+Jordan. R. June 2022.  Less air pollution leads to higher crops yields, Stanford- led study shows. Standford Woods Institute for the Environment. https://news.stanford.edu/2022/06/01/pollution-and-crops/#:~:text=Research%20led%20by%20David%20Lobell,but%20also%20for%20food%20security
 
+CLEARIAS.  (2024).  Air Pollution: Types, Causes, and Effects.  Retrieved from https://www.clearias.com/air-pollution/
+
+Farm Service Agency (FSA) U.S. Department Of Agriculture. Crop Acreage Data.  Retrieved from https://www.fsa.usda.gov/news-room/efoia/electronic-reading-room/frequently-requested-information/crop-acreage-data/index
+
+United States Environmental Protection Agency (EPA).  Air Data: Air Quality Data Collected at Outdoor Monitors Across the US.  Retrieved from https://aqs.epa.gov/aqsweb/airdata/download_files.html
 
 
 

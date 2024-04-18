@@ -1,6 +1,6 @@
 # **Project 3:** Air Pollution - Data Engineering Track
 
-**Objective:** To analyze the high concentrations of various pollutants throughout the crop fields of the united states. 
+**Objective:** To analyze the high concentrations of various pollutants throughout the crop fields of the United States. 
 
 **Data:**
 30 years of air quality, geographical, and statistical data is drawn from CSVs provided by the United States EPA. While the AQS website references the specifics for each of the fields in the database, a brief overview will be given below of the type of data one can expect from the database 

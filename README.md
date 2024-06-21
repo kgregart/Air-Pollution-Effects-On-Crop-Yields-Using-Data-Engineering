@@ -12,7 +12,7 @@ Agriculture crops are damaged when exposed to high concentrations of various pol
 
 Develop an database for each U.S. county containing air pollutant concentration levels for each pollutant category for NGO's to analyze the high concentrations of various pollutants throughout the crop fields of the United States. 
 
-## Data Collectied
+## Data Collected
 30 years of air quality, geographical, and statistical data were drawn from a collection of CSVs provided by the United States EPA. While the AQS website references the specifics for each of the fields in the database, a brief overview will be given below of the type of data one can expect from the database. 
 
 Sample snapshots of the database and data types used for various fields are provided to give the user a sense of the presentation and format with which the database is displayed. 

@@ -1,5 +1,8 @@
 #  Air Pollution Effects On Crop Yields Using Data Engineering
 
+![Crop](https://github.com/kgregart/Air-Pollution-Effects-On-Crop-Yields-Using-Data-Engineering/blob/main/Images/crop.jpg)
+
+
 ## Background
 
 Agriculture crops are damaged when exposed to high concentrations of various pollutants ultimately reducing food production. Crop damage has been the result of common air pollutants causing crop damage which come from various sources such as household cleaning VOCs, industrial processes and equipment, transportation agriculture and energy generatation. Spefically, research led by David Lobell found significant declines in crop yields when exposed to high amounts of nitrogen oxides pollution.  Understanding trends on where the highest concentration of nitrogen oxide levels exist can empower the NGO's and local farmers to advocate clean air reform to reduce sources creating high nitrogen oxide levels.

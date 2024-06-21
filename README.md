@@ -1,20 +1,16 @@
 #  Data Engineering - Air Pollution
 
+## Background
+
+Agriculture crops are damaged when exposed to high concentrations of various pollutants ultimately reducing food production. Crop damage has been the result of common air pollutants causing crop damage which come from various sources such as household cleaning VOCs, industrial processes and equipment, transportation agriculture and energy generatation. Spefically, research led by David Lobell found significant declines in crop yields when exposed to high amounts of nitrogen oxides pollution.  Understanding trends on where the highest concentration of nitrogen oxide levels exist can empower the NGO's and local farmers to advocate clean air reform to reduce sources creating high nitrogen oxide levels.
+ 
+
 ## Objective
 
-To analyze the high concentrations of various pollutants throughout the crop fields of the United States. 
+Develop an database for each U.S. county containing air pollutant concentration levels for each pollutant category for NGO's to analyze the high concentrations of various pollutants throughout the crop fields of the United States. 
 
-## Data
-30 years of air quality, geographical, and statistical data is drawn from CSVs provided by the United States EPA. While the AQS website references the specifics for each of the fields in the database, a brief overview will be given below of the type of data one can expect from the database 
-
-### Pollutant Info
-Quantities of nitrogen oxide among various other pollutants were measured with sample durations, units of measure, pollutant types, and collection methods recorded. 
-
-### Geographical Info
-Latitude and longitude are both included on top of state, county, city, and address for monitoring sites.
-
-### Statistical Info
-Some of the highest values of the year were collected along with statistical means, medians, standard deviations, and percentiles.
+## Data Collectied
+30 years of air quality, geographical, and statistical data were drawn from a collection of CSVs provided by the United States EPA. While the AQS website references the specifics for each of the fields in the database, a brief overview will be given below of the type of data one can expect from the database. 
 
 Sample snapshots of the database and data types used for various fields are provided to give the user a sense of the presentation and format with which the database is displayed. 
 
